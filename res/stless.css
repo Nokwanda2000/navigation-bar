@@ -1,0 +1,24 @@
+body{ background-color: rgba(240, 216, 235, 0.288);
+    margin: 0;}
+    .button{ 
+        padding-left: 60px;
+    }
+    .header:h1{ background-color: aqua;
+        width: 100px;
+        height:200px ;
+     }
+
+     ul{list-style-type: none;
+        margin: 0;
+        padding: 0;
+     } 
+
+     li>a{ display: inline-block;
+        width: 350px;
+        height: 150px;
+        background-color: rgba(182, 69, 144, 0.39);
+        font-size: larger;
+     }
+
+     
+        
